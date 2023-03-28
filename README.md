@@ -1,4 +1,4 @@
-# <👋 Hi there, I'm Andrea!/>
+# <p align="center">< 👋 Hi there, I'm Andrea! /></p>
 I'm a 22 year old Computer Science student from 🇪🇸 currently studying at the University of Miami 🎓. I'm passionate about technology and programming, and I'm always looking for opportunities to learn and grow 🌱.
 
 🔭 I'm currently working on some Python side projects to develop my skills and would love to collaborate with others who share my interests. If you're interested in working on a project together, please don't hesitate to reach out!
