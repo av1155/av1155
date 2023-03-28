@@ -3,7 +3,7 @@ I'm a 22 year old Computer Science student from 🇪🇸 currently studying at t
 
 🔭 I'm currently working on some Python side projects to develop my skills and would love to collaborate with others who share my interests. If you're interested in working on a project together, please don't hesitate to reach out!
 
-⚡ Some of the programming languages I'm familiar with include Python, HTML, and CSS, but I'm always eager to learn more. I'm excited to continue exploring the world of software development and to meet other developers who are just as passionate about coding as I am.
+⚡ Some of the programming languages I'm familiar with include Python, HTML, CSS, and Git, but I'm always eager to learn more. I'm excited to continue exploring the world of software development and to meet other developers who are just as passionate about coding as I am.
 
 🤝 If you're interested in connecting with me or collaborating on a project, feel free to reach out! You can find me on [LinkedIn](https://linkedin.com/in/andrea-venti).
 
