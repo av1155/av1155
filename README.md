@@ -27,3 +27,5 @@ Thanks for stopping by, and happy coding! 💻
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="cool-gif" width="400" align="center"/>
