@@ -8,9 +8,6 @@ I'm a 22 year old Computer Science student from 🇪🇸 currently studying at t
 🤝 If you're interested in connecting with me or collaborating on a project, feel free to reach out! You can find me on [LinkedIn](https://linkedin.com/in/andrea-venti).
 
 Thanks for stopping by, and happy coding! 💻
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrea-venti) 
 
 <div align="center">
 
