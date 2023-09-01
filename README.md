@@ -1,9 +1,9 @@
 # <p align="center">< 👋 Hi there, I'm Andrea! /></p>
-I'm a 22 year old Computer Science student from 🇪🇸 currently studying at the University of Miami 🎓. I'm passionate about technology and programming, and I'm always looking for opportunities to learn and grow 🌱.
+I'm a 22-year-old Computer Science student from 🇪🇸 currently studying at the University of Miami 🎓. I'm passionate about technology and programming, and I'm always looking for opportunities to learn and grow 🌱.
 
-🔭 I'm currently working on some Python side projects to develop my skills and would love to collaborate with others who share my interests. If you're interested in working on a project together, please don't hesitate to reach out!
+🔭 I'm currently exploring the fascinating world of Java, and I've sharpened my programming skills by working on some exciting Python side projects. I'm always on the lookout for like-minded individuals who share my passion for coding and would be interested in collaborating on a project. If you're keen to collaborate, let's connect and create something awesome together!
 
-⚡ Some of the programming languages I'm familiar with include Python, HTML, CSS, and Git, but I'm always eager to learn more. I'm excited to continue exploring the world of software development and to meet other developers who are just as passionate about coding as I am.
+⚡ Some of the programming languages I'm familiar with include Python, Java, and HTML/CSS; I have also become very familiar with Git. I'm always eager to learn more. I'm excited to continue exploring the world of software development and to meet other developers who are just as passionate about coding as I am.
 
 🤝 If you're interested in connecting with me or collaborating on a project, feel free to reach out! You can find me on [LinkedIn](https://linkedin.com/in/andrea-venti).
 
