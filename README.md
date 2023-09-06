@@ -9,8 +9,6 @@ I'm a 22-year-old Computer Science student from 🇪🇸 currently studying at t
 
 Thanks for stopping by, and happy coding! 💻
 
-<div align="center">
-
 # 👨‍💻 Software Development Projects:
 
 - <b>CodeHub</b>
@@ -25,6 +23,8 @@ Thanks for stopping by, and happy coding! 💻
   - [Linear Equation Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Linear%20Equation%20Calculator)
   - [Bakery Shop Simulator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Bakery%20Shop)
 
+<div align="center">
+  
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
@@ -38,6 +38,8 @@ Thanks for stopping by, and happy coding! 💻
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+</div>
+
 # Connect with me:
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -48,4 +50,3 @@ Thanks for stopping by, and happy coding! 💻
 
 [![](https://visitcount.itsvg.in/api?id=av1155&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
