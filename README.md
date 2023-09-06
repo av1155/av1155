@@ -40,8 +40,8 @@ Thanks for stopping by, and happy coding! 💻
 
 # Connect with me:
 
-[<img align="left" alt="AndreaVenti | Twitter" width="22px" src="https://www.svgrepo.com/show/521900/twitter.svg" />][twitter]
-[<img align="left" alt="AndreaVenti | LinkedIn" width="22px" src="https://www.svgrepo.com/show/521725/linkedin.svg" />][linkedin]
+[<img alt="AndreaVenti | Twitter" width="25px" src="https://www.svgrepo.com/show/521900/twitter.svg" />][twitter]
+[<img alt="AndreaVenti | LinkedIn" width="25px" src="https://www.svgrepo.com/show/521725/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/Andru_VF
 [linkedin]: https://www.linkedin.com/in/andrea-venti/
