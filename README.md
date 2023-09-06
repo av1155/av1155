@@ -38,15 +38,14 @@ Thanks for stopping by, and happy coding! 💻
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
 # Connect with me:
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AndreaVenti | Twitter" width="22px" src="https://www.svgrepo.com/show/521900/twitter.svg" />][twitter]
+[<img align="left" alt="AndreaVenti | LinkedIn" width="22px" src="https://www.svgrepo.com/show/521725/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/Andru_VF
 [linkedin]: https://www.linkedin.com/in/andrea-venti/
 
 [![](https://visitcount.itsvg.in/api?id=av1155&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
