@@ -9,7 +9,11 @@ I'm a 22-year-old Computer Science student from 🇪🇸 currently studying at t
 
 Thanks for stopping by, and happy coding! 💻
 
+<div align="center">
+
 # 👨‍💻 Software Development Projects:
+
+</div>
 
 - <b>CodeHub</b>
   - [Main code hub for all my projects, either small or big!](https://github.com/av1155/CodeHub)
