@@ -20,6 +20,7 @@ Thanks for stopping by, and happy coding! 💻
 - <b>Python</b>
   - [PyPassManager](https://github.com/av1155/PyPassManager)
   - [PlanetPath](https://github.com/av1155/PlanetPath)
+  - [Weather Alert Service](https://github.com/av1155/Weather-Alert-Service)
   - [Python Learning Resources](https://github.com/av1155/Python-Learning-Resources)
   - [PyFun](https://github.com/av1155/PyFun)
 - <b>Java</b>
