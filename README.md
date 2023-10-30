@@ -25,6 +25,9 @@ Thanks for stopping by, and happy coding! 💻
   - [PyFun](https://github.com/av1155/PyFun)
 - <b>Java</b>
   - [MastermindAI](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/MastermindAI/src)
+  - [String Edit](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/StringEdit)
+  - [Volume Comparison](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/VolumeComparison)
+  - [Projectile Motion Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/ProjectileMotionCalculator)
   - [Gravity Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Gravity%20Calculator)
   - [Linear Equation Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Linear%20Equation%20Calculator)
   - [Bakery Shop Simulator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Bakery%20Shop)
