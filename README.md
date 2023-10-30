@@ -24,6 +24,7 @@ Thanks for stopping by, and happy coding! 💻
   - [Python Learning Resources](https://github.com/av1155/Python-Learning-Resources)
   - [PyFun](https://github.com/av1155/PyFun)
 - <b>Java</b>
+  - [MastermindAI](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/MastermindAI/src)
   - [Gravity Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Gravity%20Calculator)
   - [Linear Equation Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Linear%20Equation%20Calculator)
   - [Bakery Shop Simulator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Bakery%20Shop)
