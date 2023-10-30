@@ -24,7 +24,7 @@ Thanks for stopping by, and happy coding! 💻
   - [Python Learning Resources](https://github.com/av1155/Python-Learning-Resources)
   - [PyFun](https://github.com/av1155/PyFun)
 - <b>Java</b>
-  - [MastermindAI](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/MastermindAI/src)
+  - [MastermindAI]([https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/MastermindAI/src](https://github.com/av1155/MastermindAI))
   - [String Edit](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/StringEdit)
   - [Volume Comparison](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/VolumeComparison)
   - [Projectile Motion Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/ProjectileMotionCalculator)
