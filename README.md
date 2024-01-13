@@ -15,23 +15,92 @@ Thanks for stopping by, and happy coding! 💻
 
 </div>
 
-- <b>CodeHub</b>
-  - [Main code hub for all my projects, either small or big!](https://github.com/av1155/CodeHub)
-- <b>Python</b>
-  - [PyPassManager](https://github.com/av1155/PyPassManager)
-  - [PlanetPath](https://github.com/av1155/PlanetPath)
-  - [Weather Alert Service](https://github.com/av1155/Weather-Alert-Service)
-  - [Python Learning Resources](https://github.com/av1155/Python-Learning-Resources)
-  - [PyFun](https://github.com/av1155/PyFun)
-- <b>Java</b>
-  - [MastermindAI](https://github.com/av1155/MastermindAI)
-  - [String Edit](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/StringEdit)
-  - [Volume Comparison](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/VolumeComparison)
-  - [Projectile Motion Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/ProjectileMotionCalculator)
-  - [Gravity Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Gravity%20Calculator)
-  - [Linear Equation Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Linear%20Equation%20Calculator)
-  - [Bakery Shop Simulator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Bakery%20Shop)
+### Full-Stack Web Development Projects
 
+-   **FlaskKeyring**: A Pinnacle of Full-Stack Development and Secure Password Management
+    -   [FlaskKeyring](https://github.com/av1155/FlaskKeyring)
+
+-   **StockfolioHub**: A Stock Trading Simulation Platform
+    -   [StockfolioHub](https://github.com/av1155/Finance-WebApp)
+
+-   **GPA Calculator Web App**: A Simple and User-Friendly GPA Calculation Tool
+    -   [GPA Calculator Web App](https://github.com/av1155/GPA-Calculator-Webapp)
+
+### Mobile App Development
+
+-   **FlaskKeyring iOS App**: WebKit Port for iOS
+    -   [FlaskKeyringiOSApp](https://github.com/av1155/FlaskKeyringiOSApp)
+
+### Python Projects
+
+-   **PyPassManager**: Command-line Interface Password Manager
+    -   [PyPassManager](https://github.com/av1155/PyPassManager)
+
+-   **PlanetPath**: Python Webapp for Distance and Carbon Emissions Calculation
+    -   [PlanetPath](https://github.com/av1155/PlanetPath)
+
+-   **Weather Alert Service**: Real-Time Weather Information and Alerts
+    -   [Weather Alert Service](https://github.com/av1155/Weather-Alert-Service)
+
+-   **Python Learning Resources**: Webapp with Resources for Learning Python
+    -   [Python Learning Resources](https://github.com/av1155/Python-Learning-Resources)
+
+-   **PyFun**: Python Program with Lottery, Pig Latin Translator, and Rock-Paper-Scissors Game
+    -   [PyFun](https://github.com/av1155/PyFun)
+
+### Java Projects
+
+-   **Mastermind with AI Opponent**: Java-Based Game with Adaptive AI Opponent
+    -   [MastermindAI](https://github.com/av1155/MastermindAI)
+
+-   **Mastermind with Progressive Difficulty**: Java Mastermind Game with Increasing Difficulty
+    -   [Mastermind with Progressive Difficulty](https://github.com/av1155/College_Code/blob/main/CSC_120/CSC_120_Lecture/src/FinalProject/MastermindPart1DifficultyVersionA.java)
+
+-   **Mastermind with Dynamic Guess Generation**: Mastermind Game with Computer Algorithm for Guess Adaptation
+    -   [Mastermind with Dynamic Guess Generation](https://github.com/av1155/College_Code/blob/main/CSC_120/CSC_120_Lecture/src/FinalProject/MastermindPart2VersionD.java)
+
+-   **String Edit**: Java Program for String Manipulation
+    -   [String Edit](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/StringEdit)
+
+-   **Volume Comparison**: Java Tool for Comparing Volumes of 3D Shapes
+    -   [Volume Comparison](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/VolumeComparison)
+
+-   **Projectile Motion Calculator**: Java Application for Calculating Projectile Motion Parameters
+    -   [Projectile Motion Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/ProjectileMotionCalculator)
+
+-   **Gravity Calculator**: Java Program for Calculating Speed and Distance of Falling Objects
+    -   [Gravity Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Gravity%20Calculator)
+
+-   **Linear Equation Calculator**: Java Program for Solving Linear Equations
+    -   [Linear Equation Calculator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Linear%20Equation%20Calculator)
+
+-   **Bakery Shop Simulator**: Java Program Simulating a Bakery Order System
+    -   [Bakery Shop Simulator](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Bakery%20Shop)
+
+-   **Mastermind Game**: Advanced Java Implementation of Mastermind Game
+    -   [Mastermind Game](https://github.com/av1155/College_Code/blob/main/CSC_120/CSC_120_Lecture/src/FinalProject/MastermindPart2ersionD.java)
+
+### Command-Line Tools
+
+-   **GPA Calculator**: Command-Line Tool for Calculating GPA
+    -   [GPA Calculator](https://github.com/av1155/GPA-Calculator)
+
+### Scripting and Configuration
+
+-   **My Bash Scripts Repository**: Collection of Useful Bash Scripts
+    -   [My Bash Scripts Repository](https://github.com/av1155/scripts)
+
+-   **Dotfiles + BootStrap Repository**: For Customizing macOS Development Environment
+    -   [Dotfiles + BootStrap Repository](https://github.com/av1155/.dotfiles)
+
+-   **AstroNvim User Configuration**: Custom Configuration for AstroNvim with Preferred Plugins and Mappings
+    -   [AstroNvim User Configuration](https://github.com/av1155/astronvim_config)
+
+### Code Hub
+
+-   **CodeHub**: Central Hub for Smaller Projects
+    -   [CodeHub](https://github.com/av1155/CodeHub)
+ 
 <div align="center">
   
 # 💻 Tech Stack:
