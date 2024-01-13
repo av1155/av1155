@@ -34,7 +34,7 @@ Thanks for stopping by, and happy coding! 💻
     
 *   [**PlanetPath**](https://github.com/av1155/PlanetPath): Python Webapp for Distance and Carbon Emissions Calculation
     
-*   [**Weather Alert Service**](https://github.com/av1155/Weather-Alert-Service): Real-Time Weather Information and Alerts
+*   [**Weather Alert Service**](https://github.com/av1155/Weather-Alert-Service): Real-Time Weather Information and Alerts Using Twilio
     
 *   [**Python Learning Resources**](https://github.com/av1155/Python-Learning-Resources): Webapp with Resources for Learning Python
     
