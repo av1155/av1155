@@ -29,6 +29,7 @@ Thanks for stopping by, and happy coding! 💻
 ### Mobile App Development
 
 -   **FlaskKeyring iOS App**: WebKit Port for iOS
+ 
     -   [FlaskKeyringiOSApp](https://github.com/av1155/FlaskKeyringiOSApp)
 
 ### Python Projects
@@ -83,6 +84,7 @@ Thanks for stopping by, and happy coding! 💻
 ### Command-Line Tools
 
 -   **GPA Calculator**: Command-Line Tool for Calculating GPA
+  
     -   [GPA Calculator](https://github.com/av1155/GPA-Calculator)
 
 ### Scripting and Configuration
@@ -99,6 +101,7 @@ Thanks for stopping by, and happy coding! 💻
 ### Code Hub
 
 -   **CodeHub**: Central Hub for Smaller Projects
+  
     -   [CodeHub](https://github.com/av1155/CodeHub)
  
 <div align="center">
