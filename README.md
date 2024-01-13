@@ -1,9 +1,14 @@
 # <p align="center">< 👋 Hi there, I'm Andrea! /></p>
-I'm a 22-year-old Computer Science student from 🇪🇸 currently studying at the University of Miami 🎓. I'm passionate about technology and programming, and I'm always looking for opportunities to learn and grow 🌱.
 
-🔭 I'm currently exploring the fascinating world of Java, and I've sharpened my programming skills by working on some exciting Python side projects. I'm always on the lookout for like-minded individuals who share my passion for coding and would be interested in collaborating on a project. If you're keen to collaborate, let's connect and create something awesome together!
+I'm currently pursuing a B.S. in Computer Science with a Minor in Mathematics at the University of Miami 🎓, originally from 🇪🇸. I have a strong passion for technology and programming.
 
-⚡ Some of the programming languages I'm familiar with include Python, Java, C/C++, HTML, and CSS; I have also become very familiar with Git. I'm always eager to learn more. I'm excited to continue exploring the world of software development and to meet other developers who are just as passionate about coding as I am.
+Currently, I'm focused on expanding my skills in Java and Python. I'm proficient in several programming languages, including Python, Java, C/C++, JavaScript, HTML, CSS, Bash, and Lua. I'm also well-versed in Git for version control.
+
+I'm open to collaboration and always interested in connecting with fellow developers. If you're looking to collaborate on projects or discuss tech-related topics, feel free to reach out.
+
+In addition to coding, I have experience with tools like Flask, PyTorch, TensorFlow, Git, Docker, and Jupyter. I'm comfortable working on both Unix and Windows operating systems.
+
+I'm a native/bilingual speaker of both Spanish and English, which facilitates effective communication in diverse environments.
 
 🤝 If you're interested in connecting with me or collaborating on a project, feel free to reach out! You can find me on [LinkedIn](https://linkedin.com/in/andrea-venti).
 
