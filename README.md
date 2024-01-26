@@ -69,7 +69,7 @@ Thanks for stopping by, and happy coding! 💻
     
 *   [**Bakery Shop Simulator**](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Bakery%20Shop): Java Program Simulating a Bakery Order System
     
-*   [**Mastermind Game**](https://github.com/av1155/College_Code/blob/main/CSC_120/CSC_120_Lecture/src/FinalProject/MastermindPart2ersionD.java): Advanced Java Implementation of Mastermind Game
+*   [**Mastermind Game**](https://github.com/av1155/College_Code/blob/main/CSC_120/CSC_120_Lecture/src/FinalProject/MastermindPart2VersionD.java): Advanced Java Implementation of Mastermind Game
     
 
 ### Command-Line Tools
