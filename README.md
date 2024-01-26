@@ -2,9 +2,9 @@
 
 I'm currently pursuing a B.S. in Computer Science with a Minor in Mathematics at the University of Miami 🎓, originally from 🇪🇸. I have a strong passion for technology and programming.
 
-Currently, I'm focused on expanding my skills in Java and Python. I'm proficient in several programming languages, including Python, Java, C/C++, JavaScript, HTML, CSS, Bash, and Lua. I'm also well-versed in Git for version control. I also enjoy working from the terminal, deeply dedicated to my Neovim configuration!
+Currently, I'm focused on expanding my skills in Java and Python. I'm proficient in several programming languages, including Python, Java, C/C++, JavaScript, HTML, CSS, Bash, and Lua. I'm also well-versed in Git for version control. I love working from the terminal! It's my go-to place for getting things done, and I'm always tinkering with my Neovim configuration to make it just right for me.
 
-I'm passionate about maintaining a highly efficient development environment. Key tools in my toolkit include Kitty, Neovim, Tmux, Lazygit, Miniforge, Homebrew, and Oh My Zsh, along with a [custom bootstrap script](https://gitfront.io/r/av1155/19cAs3DhXmSD/.dotfiles/) for quick environment setup and maintenance.
+I'm passionate about maintaining a highly efficient development environment. Key tools in my toolkit include Kitty, Neovim, Tmux, Lazygit, Miniforge, Homebrew, and Oh My Zsh. I also have a [custom bootstrap script](https://gitfront.io/r/av1155/19cAs3DhXmSD/.dotfiles/) for quick environment setup and maintenance that I use regularly.
 
 I'm open to collaboration and always interested in connecting with fellow developers. If you're looking to collaborate on projects or discuss tech-related topics, feel free to reach out.
 
