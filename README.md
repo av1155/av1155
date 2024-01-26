@@ -68,9 +68,6 @@ Thanks for stopping by, and happy coding! 💻
 *   [**Linear Equation Calculator**](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Linear%20Equation%20Calculator): Java Program for Solving Linear Equations
     
 *   [**Bakery Shop Simulator**](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Bakery%20Shop): Java Program Simulating a Bakery Order System
-    
-*   [**Mastermind Game**](https://github.com/av1155/College_Code/blob/main/CSC_120/CSC_120_Lecture/src/FinalProject/MastermindPart2VersionD.java): Advanced Java Implementation of Mastermind Game
-    
 
 ### Command-Line Tools
 
