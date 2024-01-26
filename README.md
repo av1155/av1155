@@ -2,13 +2,13 @@
 
 I'm currently pursuing a B.S. in Computer Science with a Minor in Mathematics at the University of Miami 🎓, originally from 🇪🇸. I have a strong passion for technology and programming.
 
-Currently, I'm focused on expanding my skills in Java and Python. I'm proficient in several programming languages, including Python, Java, C/C++, JavaScript, HTML, CSS, Bash, and Lua. I'm also well-versed in Git for version control.
+Currently, I'm focused on expanding my skills in Java and Python. I'm proficient in several programming languages, including Python, Java, C/C++, JavaScript, HTML, CSS, Bash, and Lua. I'm also well-versed in Git for version control. I also enjoy working from the terminal, deeply dedicated to my Neovim configuration!
+
+I'm passionate about maintaining a highly efficient development environment. Key tools in my toolkit include Kitty, Neovim, Tmux, Lazygit, Miniforge, Homebrew, and Oh My Zsh, along with a [custom bootstrap script](https://gitfront.io/r/av1155/19cAs3DhXmSD/.dotfiles/) for quick environment setup and maintenance.
 
 I'm open to collaboration and always interested in connecting with fellow developers. If you're looking to collaborate on projects or discuss tech-related topics, feel free to reach out.
 
 In addition to coding, I have experience with tools like Flask, PyTorch, TensorFlow, Git, Docker, and Jupyter. I'm comfortable working on both Unix and Windows operating systems.
-
-I'm a native/bilingual speaker of both Spanish and English, which facilitates effective communication in diverse environments.
 
 🤝 If you're interested in connecting with me or collaborating on a project, feel free to reach out! You can find me on [LinkedIn](https://linkedin.com/in/andrea-venti).
 
