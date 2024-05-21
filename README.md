@@ -1,14 +1,16 @@
 # <p align="center">< 👋 Hi there, I'm Andrea! /></p>
 
-I'm currently pursuing a B.S. in Computer Science with a Minor in Mathematics at the University of Miami 🎓, originally from 🇪🇸. I have a strong passion for technology and programming.
+I'm pursuing a B.S. in Computer Science with a Minor in Mathematics at the University of Miami 🎓, originally from 🇪🇸. I have a strong passion for technology and programming.
 
-Currently, I'm focused on expanding my skills in Java and Python. I'm proficient in several programming languages, including Python, Java, C/C++, JavaScript, HTML, CSS, Bash, and Lua. I'm also well-versed in Git for version control. I love working from the terminal! It's my go-to place for getting things done, and I'm always tinkering with my Neovim configuration to make it just right for me.
+Lately, I have been learning more lower-level Computer Science concepts to truly understand how things work under the hood.
+
+I'm proficient in several programming languages, including Python, Java, C/C++, JavaScript, HTML, CSS, Bash, and Lua. I'm also well-versed in Git for version control. I love working from the terminal! It's my go-to place for getting things done, and I'm always tinkering with my Neovim configuration to make it just right for me.
 
 I'm passionate about maintaining a highly efficient development environment. Key tools in my toolkit include Kitty, Neovim, Tmux, Lazygit, Miniforge, Homebrew, and Oh My Zsh. I also have a [custom bootstrap script](https://gitfront.io/r/av1155/19cAs3DhXmSD/.dotfiles/) for quick environment setup and maintenance that I use regularly.
 
-I'm open to collaboration and always interested in connecting with fellow developers. If you're looking to collaborate on projects or discuss tech-related topics, feel free to reach out.
+I'm open to collaboration and always interested in connecting with fellow developers. Feel free to reach out if you want to collaborate on projects or discuss tech-related topics.
 
-In addition to coding, I have experience with tools like Flask, PyTorch, TensorFlow, Git, Docker, and Jupyter. I'm comfortable working on both Unix and Windows operating systems.
+In addition to coding, I have experience with tools like Flask, PyTorch, TensorFlow, Git, Docker, Jupyter, and many other frameworks such as Bootstrap and TailwindCSS. I'm comfortable working on both Unix and Windows operating systems.
 
 🤝 If you're interested in connecting with me or collaborating on a project, feel free to reach out! You can find me on [LinkedIn](https://linkedin.com/in/andrea-venti).
 
@@ -31,10 +33,23 @@ Thanks for stopping by, and happy coding! 💻
     
 *   [**GPA Calculator Web App**](https://github.com/av1155/GPA-Calculator-Webapp): A Simple and User-Friendly GPA Calculation Tool
     
+### Back-End Projects
+
+*   [**IndexNet Engine**](https://github.com/av1155/IndexNet-Engine): Advanced Java-based Simulation of PageRank Algorithm and Web Crawling
+
+### Video Games
+
+*   [**AlienInvaders**](https://github.com/av1155/AlienInvaders): An Interactive Java Game Simulation
+
+*   [**Simple Snake Game**](https://github.com/av1155/SnakeGame/tree/main): Classic snake game implemented in Java using Java Swing.
 
 ### Mobile App Development
 
 *   [**FlaskKeyring iOS App**](https://github.com/av1155/FlaskKeyringiOSApp): WebKit Port for iOS
+
+### Linux
+
+*   [**RaspberryPi5-FullSetup**](https://github.com/av1155/RaspberryPi5-FullSetup): A guide to configuring Raspberry Pi 5 with iPad Pro using USB-C and USB Ethernet connection. Includes SSH setup with Blink Shell, remote access via RealVNC, and Code-Server for a portable development environment. Provides low-latency connection and static IP configuration. Portable + capable powerhouse.
 
 ### Python Projects
 
@@ -52,21 +67,21 @@ Thanks for stopping by, and happy coding! 💻
 ### Java Projects
 
 *   [**Mastermind with AI Opponent**](https://github.com/av1155/MastermindAI): Java-Based Game with Adaptive AI Opponent
-    
+
 *   [**Mastermind with Progressive Difficulty**](https://github.com/av1155/College_Code/blob/main/CSC_120/CSC_120_Lecture/src/FinalProject/MastermindPart1DifficultyVersionA.java): Java Mastermind Game with Increasing Difficulty
-    
+
 *   [**Mastermind with Dynamic Guess Generation**](https://github.com/av1155/College_Code/blob/main/CSC_120/CSC_120_Lecture/src/FinalProject/MastermindPart2VersionD.java): Mastermind Game with Computer Algorithm for Guess Adaptation
-    
+
 *   [**String Edit**](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/StringEdit): Java Program for String Manipulation
-    
+
 *   [**Volume Comparison**](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/VolumeComparison): Java Tool for Comparing Volumes of 3D Shapes
-    
+
 *   [**Projectile Motion Calculator**](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/ProjectileMotionCalculator): Java Application for Calculating Projectile Motion Parameters
-    
+
 *   [**Gravity Calculator**](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Gravity%20Calculator): Java Program for Calculating Speed and Distance of Falling Objects
-    
+
 *   [**Linear Equation Calculator**](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Linear%20Equation%20Calculator): Java Program for Solving Linear Equations
-    
+
 *   [**Bakery Shop Simulator**](https://github.com/av1155/CodeHub/tree/main/Projects/Java_Projects/Bakery%20Shop): Java Program Simulating a Bakery Order System
 
 ### Command-Line Tools
