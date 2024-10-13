@@ -17,7 +17,7 @@ In addition to coding, I have experience with tools like Flask, PyTorch, TensorF
 Thanks for stopping by, and happy coding! 💻
 
 ## [Portfolio](https://andrea-venti.com) ⚡️
-[![Netlify Status](https://api.netlify.com/api/v1/badges/80c66205-9a37-4096-ac5b-48a55f38b8ad/deploy-status)](https://app.netlify.com/sites/andrea-venti/deploys)
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/codefolio-omega?style=for-the-badge)](https://www.andreaventi.com/)
 
 <div align="center">
 
