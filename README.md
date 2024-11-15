@@ -22,7 +22,7 @@ Discover my latest projects and accomplishments on my [portfolio](https://andrea
 
 </div>
 
-- [**FlaskKeyring**](https://github.com/av1155/FlaskKeyring): Full-stack password manager with user authentication, encryption, and email verification, built with Python, Flask, and PostgreSQL. Deployed on Heroku.
+- [**FlaskKeyring**](https://github.com/av1155/FlaskKeyring): Full-stack, zero-knowledge password manager with client-side encryption, secure APIs, and email verification. Built with Python, Flask, and PostgreSQL. Deployed on Heroku.
 
 - [**IndexNet-Engine**](https://github.com/av1155/IndexNet-Engine/blob/main/README.md): Java-based search engine simulation using the PageRank algorithm with web crawling and efficient data indexing via B-Trees.
 
