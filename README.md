@@ -22,6 +22,8 @@ Discover my latest projects and accomplishments on my [portfolio](https://andrea
 
 </div>
 
+- [**Homelab — Cloud-Inspired SRE/DevOps Platform**](https://github.com/av1155/homelab): Production-grade Proxmox HA + Kubernetes (kube-vip, MetalLB, Longhorn) with GitOps (Argo CD + self-hosted GitHub Actions), IaC (Terraform/Ansible/Packer), and zero-trust security (Vault, Cloudflare, WireGuard). Full observability via Prometheus/Grafana/Alertmanager, with automated DR and backups to NAS & Cloudflare R2. **RTO ≤ 3m · RPO ~15m · 29 stacks / 95 containers.**
+
 - [**FlaskKeyring**](https://github.com/av1155/FlaskKeyring): Full-stack, zero-knowledge password manager with client-side encryption, secure APIs, and email verification. Built with Python, Flask, and PostgreSQL. Deployed on Heroku.
 
 - [**IndexNet-Engine**](https://github.com/av1155/IndexNet-Engine/blob/main/README.md): Java-based search engine simulation using the PageRank algorithm with web crawling and efficient data indexing via B-Trees.
@@ -32,7 +34,7 @@ Discover my latest projects and accomplishments on my [portfolio](https://andrea
 
 - [**Task Automation Toolkit**](https://github.com/av1155/scripts): Collection of useful Bash scripts to streamline tasks and enhance productivity across environments.
 
-- [**Neovim Config**](https://github.com/av1155/Neovim-Config): Streamlined and efficient Neovim setup designed for productivity, built with Lua.
+- [**Neovim Config**](https://github.com/av1155/nvim): Streamlined and efficient Neovim setup designed for productivity, built with Lua.
 
 - [**Space Invaders**](https://github.com/av1155/SpaceInvaders): Java clone of the classic Space Invaders game with custom mechanics, collision detection, and responsive controls.
 
