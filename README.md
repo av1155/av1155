@@ -14,8 +14,6 @@ Thanks for stopping by, and happy coding! 💻
 
 Discover my latest projects and accomplishments on my [portfolio](https://andreaventi.com).
 
-[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/codefolio-omega?style=for-the-badge)](https://andreaventi.com)
-
 <div align="center">
 
 # 👨‍💻 Featured Projects
